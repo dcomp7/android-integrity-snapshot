@@ -4,7 +4,7 @@
 
 BASE_DIR="aisnapshots"
 REPORT_DIR="reports"
-TEMPLATE_DIR="llm_prompt_template"
+TEMPLATE_DIR="."
 
 # Function to print usage information
 function print_usage() {
